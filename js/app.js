@@ -181,6 +181,7 @@ const displayLikedPosts = (id) => {
     });
 };
 
+//6 showing reported posts on report section 
 const displayReportedPosts = (id) => {
 document.getElementById("reported").textContent = ' ';
     const reportedPosts = getReportedPosts(id);
