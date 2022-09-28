@@ -65,7 +65,7 @@ const switchTab = (id) => {
 
 const createPost = (post) => {
  
-  
+  //2 user profile icon + comment 
     const image = post.image;
     const userImage = post.userImage;
     const [name]= post.comments ;
