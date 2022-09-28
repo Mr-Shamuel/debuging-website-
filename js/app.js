@@ -165,7 +165,7 @@ const showPosts = (posts) => {
 
  
 
-
+//5 displaying  liked photos 
 const displayLikedPosts = (id) => {
  
 
